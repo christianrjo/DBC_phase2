@@ -3,7 +3,7 @@ DBC_phase2
 
 Phase 2 puts an emphasis on ActiveRecord (validations, callbacks, associations, Query interface, etc) , and other technologies including HTML5 & CSS3, Javascript, JQuery, AJAX RESTful routes, Sinatra, Javascript, APIs.
 
-###Link to some DBC_phase2 challenges:
+###Links to some DBC_phase2 challenges:
 
 Left-hand Navigation
 
@@ -30,7 +30,7 @@ Lucky Ajax
 https://github.com/christianrjo/luckyajax
 
 
-###Link to some Portfolio challenges:
+###Links to some Portfolio challenges:
 
 Javascript: Refactor Procedural to OO
 
@@ -43,3 +43,5 @@ https://github.com/christianrjo/ar-people-skills
 Active Record and Sinatra: Propagating Validations
 
 https://github.com/christianrjo/ar-propagate
+
+
