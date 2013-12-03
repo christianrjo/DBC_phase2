@@ -1,7 +1,7 @@
 DBC_phase2
 ==========
 
-Phase 2 puts an emphasis on ActiveRecord (validations, callbacks, associations, Query interface, etc) , and other topics including HTML5 & CSS3, Javascript, JQuery, AJAX RESTful routes, Sinatra, Javascript, APIs.
+Phase 2 puts an emphasis on ActiveRecord (validations, callbacks, associations, Query interface, etc) , and other technologies including HTML5 & CSS3, Javascript, JQuery, AJAX RESTful routes, Sinatra, Javascript, APIs.
 
 ###Link to some DBC_phase2 challenges:
 
